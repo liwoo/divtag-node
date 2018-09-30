@@ -1,0 +1,17 @@
+{
+  "name": "divtag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "winston": "^3.1.0"
+  }
+}
